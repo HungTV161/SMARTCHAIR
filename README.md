@@ -1,0 +1,1 @@
+SmartChair is an IoT-based solution designed to monitor users' health and sitting behavior. It integrates sensors to measure heart rate, blood oxygen levels (SpO2), body movement, and sleep patterns, offering real-time feedback to improve posture and overall well-being.
